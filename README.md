@@ -1,4 +1,4 @@
-# Nar_bar_react
+# Nav_bar_react
 ## A simple Demo of Routing React
 
 <img src="images/home.png" height="500px" >
